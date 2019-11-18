@@ -1,0 +1,45 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Harddrive failure on server xyz",
+      "attention": true,
+      "tech": "Mary Jay",
+      "date": "2019-11-18T04:14:51.113Z"
+    },
+    {
+      "id": 3,
+      "message": "Free up storage space on server Bullshit",
+      "attention": true,
+      "tech": "Frank Choy",
+      "date": "2019-11-18T04:14:38.285Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "id": 4
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Choy",
+      "id": 6
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Jay",
+      "id": 7
+    },
+    {
+      "firstName": "John",
+      "lastName": "Newman",
+      "id": 8
+    }
+  ]
+}
